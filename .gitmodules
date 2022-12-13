@@ -1,0 +1,6 @@
+[submodule "serveurMessagerie"]
+	path = serveurMessagerie
+	url = ./serveurMessagerie
+[submodule "clientMessagerie"]
+	path = clientMessagerie
+	url = ./clientMessagerie/
